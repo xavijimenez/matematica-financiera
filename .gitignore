@@ -47,3 +47,8 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Mis reglas personalizadas
+*.pdf
+*.html
+.DS_Store
